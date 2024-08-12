@@ -9,8 +9,6 @@ Rules:
 
 (4) You are only allowed 6 strikes, once those 6 strikes are up you lose.
 
+- On each round you will be told how many strikes you've used, and the letters that you have guessed.
 
-
-On each round you will be told how many strikes you've used, and the letters that you have guessed.
-
-After the end of each round you will be asked if you would like to start another round or stop.
+- After the end of each round you will be asked if you would like to start another round or stop.
